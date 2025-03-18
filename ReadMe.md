@@ -18,6 +18,14 @@
 
 ___
 
+## Useful links
+https://squidfunk.github.io/mkdocs-material/reference/admonitions/
+https://squidfunk.github.io/mkdocs-material/customization/
+https://squidfunk.github.io/mkdocs-material/tutorials/blogs/navigation/
+https://squidfunk.github.io/mkdocs-material/tutorials/
+
+___
+
 ## Template
 
 ```
