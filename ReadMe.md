@@ -43,6 +43,6 @@ date:
 
 ### Brief Summary of lesson
 
-### What i learned
+### Takeaways
 
 ```
