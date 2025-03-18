@@ -11,10 +11,13 @@
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
+    mkdocs.yml              # Config
     docs/
-        index.md  # The documentation homepage.
-        test.md # Other markdown pages, images and other files.
+        index.md            # Homepage
+        blog/
+            index.md        # Blog homepage i think(?)
+            posts/
+                post.md     # Individual lesson blog posts
 
 ___
 
