@@ -1,6 +1,32 @@
 site_name: Florian Kleiser 
 theme:
     name: material
+    features:
+        # - navigation.tabs
+        # - navigation.expand
+        # - navigation.sections
+        # - navigation.top
+        # - navigation.bottom
+        # - toc
+        # - sidebar
+        # - codehilite
+        # - extra
+        - navigation.indexes
     palette:
         scheme: slate
 
+plugins:
+    - search
+    - blog:
+        blog_toc: true
+        archive: false
+
+nav:
+    - Home: index.md
+    - Blog:
+        - blog/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
