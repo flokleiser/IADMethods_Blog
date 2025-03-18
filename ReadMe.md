@@ -15,3 +15,20 @@
     docs/
         index.md  # The documentation homepage.
         test.md # Other markdown pages, images and other files.
+
+___
+
+## Template
+
+```
+# Lesson (Date)
+
+### Topic
+
+### Reading Material thoughts & takeaways
+
+### Brief Summary of lesson
+
+### What i learned
+
+```
