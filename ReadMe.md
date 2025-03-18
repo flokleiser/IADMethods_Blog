@@ -29,7 +29,10 @@ ___
 ## Template
 
 ```
-# Lesson (Date)
+---
+date:
+  created: yyyy-mm-dd
+---
 
 ### Topic
 
