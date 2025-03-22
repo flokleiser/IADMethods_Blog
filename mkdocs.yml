@@ -17,14 +17,11 @@ theme:
 
 plugins:
     - search
-    - blog:
-        blog_toc: true
-        archive: false
 
-nav:
-    - Home: index.md
-    - Blog:
-        - blog/index.md
+# nav:
+#     - Home: index.md
+#     - Blog:
+#         - blog/index.md
 
 markdown_extensions:
   - admonition
