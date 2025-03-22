@@ -13,6 +13,7 @@ ___
 ???+ abstract "RAW: Conveying minimally-mediated impressions of everyday life with an audio-photographic tool"
 
     [bitton_agamanolis_karau.pdf](/texts/week1/week1_bitton_agamanolis_karau.pdf)
+    [bitton_agamanolis_karau.pdf](https://flokleiser.github.io/texts/week1/week1_bitton_agamanolis_karau.pdf)
 
     1) What are the new terms in this text? How are they defined? Where do they come from?
 

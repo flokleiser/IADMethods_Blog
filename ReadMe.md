@@ -39,10 +39,20 @@ date:
 
 ## Topic
 
+
+___
+
 ## Reading Material
+
+
+___
 
 ## Brief Summary of Lesson
 
+
+___
+
 ## Takeaways
+
 
 ```
