@@ -37,12 +37,12 @@ date:
   created: yyyy-mm-dd
 ---
 
-### Topic:
+## Topic
 
-### Reading Material Thoughts:
+## Reading Material
 
-### Brief Summary of Lesson:
+## Brief Summary of Lesson
 
-### Takeaways:
+## Takeaways
 
 ```

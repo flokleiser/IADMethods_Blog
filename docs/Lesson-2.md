@@ -3,18 +3,58 @@ date:
   created: 2025-03-18
 draft: true
 ---
-### Topic:
+## Topic
 Observations & Experiences
 
-### Reading Material:
-[Bitton, J., S. Agamanolis, and M. Karau. 2004. “RAW: Conveying minimally-mediated impressions of everyday life with an audio-photographic tool”. In _Proceedings of_ _CHI 2004_](/texts/week1/week1_bitton_agamanolis_karau.pdf)
+___
 
-[Höök, K. & Löwgren, J. 2020. "Characterizing Interaction Design by Its Ideals: A Discipline in Transition". In _She-Ji._](/texts/week1/week1_höök_löwgren.pdf)
+## Reading Material
 
-[Nova, N. 2014. "Design Ethnography?" & "Field Research". In _Beyond Ethnography. How Designers Practice Ethnographic Research_. pp 29-55. SHS (Berlin) & HEAD Genève.](/texts/week1/week1_nova.pdf)
+???+ abstract "RAW: Conveying minimally-mediated impressions of everyday life with an audio-photographic tool"
 
-### Brief Summary of lesson:
+    [bitton_agamanolis_karau.pdf](/texts/week1/week1_bitton_agamanolis_karau.pdf)
+
+    1) What are the new terms in this text? How are they defined? Where do they come from?
+
+    2) Who are the authors? Where do they work? Who do they refer to? 
+
+    3) What questions come to your mind from reading this text?
+
+    4) How does it affect your design practice? What applications do you see in your practice?
+
+
+???+ abstract "Characterizing Interaction Design by Its Ideals: A Discipline in Transition"
+
+    [höök_löwgren.pdf](/texts/week1/week1_höök_löwgren.pdf)
+
+    1) What are the new terms in this text? How are they defined? Where do they come from?
+
+    2) Who are the authors? Where do they work? Who do they refer to? 
+
+    3) What questions come to your mind from reading this text?
+
+    4) How does it affect your design practice? What applications do you see in your practice?
+
+
+???+ abstract ""Design Ethnography?" & "Field Research""
+
+    [nova.pdf](/texts/week1/week1_nova.pdf)
+
+    1) What are the new terms in this text? How are they defined? Where do they come from?
+
+    2) Who are the authors? Where do they work? Who do they refer to? 
+
+    3) What questions come to your mind from reading this text?
+
+    4) How does it affect your design practice? What applications do you see in your practice?
+
+
+___
+
+## Brief Summary of Lesson
 tbd
 
-### Takeaways:
+___
+
+## Takeaways
 tbd
