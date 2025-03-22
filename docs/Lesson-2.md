@@ -15,10 +15,6 @@ ___
 
     [bitton_agamanolis_karau.pdf](texts/week1/week1_bitton_agamanolis_karau.pdf)
 
-    [bitton_agamanolis_karau.pdf](texts/week1/week1_bitton_agamanolis_karau.pdf)
-
-    [bitton_agamanolis_karau.pdf](https://github.com/flokleiser/IADMethods_Blog/blob/gh-pages/texts/week1/week1_bitton_agamanolis_karau.pdf)
-
     1) What are the new terms in this text? How are they defined? Where do they come from?
 
     2) Who are the authors? Where do they work? Who do they refer to? 
