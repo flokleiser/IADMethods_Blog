@@ -30,6 +30,3 @@ markdown_extensions:
   - pymdownx.pathconverter:
         base_path: ''
         absolute: false
-
-extra-javascript:
-    - texts/week1/week1_bitton_agamanolis_karau.pdf
