@@ -92,9 +92,17 @@ ___
 ___
 
 ## Brief Summary of Lesson
-tbd
+The lesson was hosted by Jo and Aron, and focused around ways of researching design topics, mainly observations and experiences. Aron started with a recap about the topic of design ethnography, and Jo followed with an interesting section about the "illusion of observation", in which she highlighted the pitfalls of biases and predisposition. She also mentioned ways to negate this issue, mainly to have a diverse observer team, multiple observation tools/methods, 
+
+The lesson ended with an exercise where we had to analyze a random object in pairs, discuss the intended and unintended uses, and also associations. The goal of the exercise was to shine a light on various biases that we might have, individually and collectively based on our personal lives and culture. Claudio and I analyzed a box of toothpicks, and it was interesting to realize that we both did not associate it with the act of cleaning your teeth, but rather with the act of picking up food.
+
+In the end, Joëlle gave a couple of inputs regarding the structure of the lesson, mainly that some more pictures could help for more visual aid. She also mentioned that we are welcome to take a critical stance to wards the literature, and we should investigate the authors of the papers a bit more, because that adds valuable context about the surroundings in which the text was written as well as the biases surrounding the paper. Finally, Joëlle mentioned that future groups could use different settings such as holding the lesson outdoors, or completely over zoom.
+
+???+ note "New Terms"
+    - Hawthorne effect: someone acts differently when they know they are being watched.
 
 ___
 
 ## Takeaways
-tbd
+- have a diverse observer team
+- you cant be unbiased, you can only try to midigate it by critically quesitoning things you might think are common sense.
