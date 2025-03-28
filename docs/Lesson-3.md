@@ -1,92 +1,98 @@
 ---
 date:
-  created: 2025-03-24
+  created: 2025-03-28
 draft: true
 ---
 
 ## Topic
-Observations & Experiences
+Prototyping concepts, prototyping everything
 
 ___
 
 ## Reading Material
 
-???+ abstract "RAW: Conveying minimally-mediated impressions of everyday life with an audio-photographic tool"
+???+ abstract "Moriwaki, K. & Brucker-Cohen, J. 2006. “Lessons from the scrapyard: creative uses of found materials within a workshop setting”. In AI & Society. 20:4. 506-525."
 
-    [bitton_agamanolis_karau.pdf](texts/week1/week1_bitton_agamanolis_karau.pdf)
+    [moriwaki_brucker-cohen.pdf](texts/week2/week2_moriwaki_brucker-cohen.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?**
 
-    - binaural  sound  recording: using two microphones to create 3D stereo sound.
-    - the title "RAW" refers to the unedited nature of the product.
-    - HCI: human-computer interaction
+    - "third place": some place outside of work or home, in which creative experimentation and playful engagement occurs.
 
 
-    2) **Who are the authors? Where do they work? Who do they refer to?**
+    1) **Who are the authors? Where do they work? Who do they refer to?**
 
-    - Media Lab Europe: irish research institute, based on MIT Media Lab. Focused on innovation in digital technology & human-machine interaction.
-
-    3) **What questions come to your mind from reading this text?**
-
-    - How would the outcome change if the audio recording was only 15 seconds long?
-    - Why can't images/audio be deleted retroactively?
-    - Was the fact that they were recording declared to any subjects being photographed?
-
-    4) **How does it affect your design practice? What applications do you see in your practice?**
-
-    - Dont regard audio or sound as "secondary", give it equal importance to everything else.
-    - Everyone will use a tool differently, based on previous experiences.
-    - The slow reveal or "zoom out" as the audio starts playing is really fascinating, as it leads to a level of suspense while viewing the work.
-
-
-???+ abstract "Characterizing Interaction Design by Its Ideals: A Discipline in Transition"
-
-    [höök_löwgren.pdf](texts/week1/week1_höök_löwgren.pdf)
-
-    1) **What are the new terms in this text? How are they defined? Where do they come from?** 
-
-    - soma design: focused on two pillars of the human condition, movement and bodily experience.
-
-
-    2) **Who are the authors? Where do they work? Who do they refer to?**
-
-    - Two experienced interaction designers from sweden.
+    - written in 2005, published in 2006, Brucker-Cohen: PHD, researcher, artist, writer, worked in Trinity College in dublin. Moriwaki: Associate Professor of Media Design at Parsons School of Design.
 
     1) **What questions come to your mind from reading this text?**
 
-    - How much of interaction design is an art form, and how much is a "hard science"
+    - how can the "time pressure" aspect that often leads to creative problem solving be changed to make it less stressful?
 
-    2) **How does it affect your design practice? What applications do you see in your practice?**
-
-    - the ideals of interaction design (at the time of publication): UX, still largely concentrates on interface between people and devices and the details of the interaction. "Designing interfaces for experience and meaning".
-    - the history of IAD: originated from HCI, started in the late 70s and early 80s, closely related to the evolution of computers (first as factory/professional work tools, then in homes and public spaces and as wearables). The first focus was "engineering interfaces for usability and utility", and later shifting the focus to "user experience and meaning making".
-    - the current challenges for the filed of interaction design are the emergence of AI, making interactions inherently unpredictable, the shift from screen based interfaces to hybrid physical/digital design materials, and the various ecosystems that a product has to be embedded in rather than being standalone, as well as various emergent properties that stem from changing environments.
-    - "interaction design is currently at a point where we need to start 
-    designing by orchestrating the interaction with ensembles of more or less autonomous components"
-
-
-???+ abstract ""Design Ethnography?" & "Field Research""
-
-    [nova.pdf](texts/week1/week1_nova.pdf)
-
-    1) **What are the new terms in this text? How are they defined? Where do they come from?**
-
-    - Design Ethnography: "ethnographic qualitative research set within a design context", revolves around a multitude of aspects such as environments, actors, motivations etc.
-
-    2) **Who are the authors? Where do they work? Who do they refer to?**
-
-    - Designer, Creative Leader from California, focused on the overlap of technology and design and helping to shape new products for emerging needs and exploring the human impact of new technologies.
-
-    3) **What questions come to your mind from reading this text?**
-
-    - How does design ethnography differ from traditionall ethnography?
-    - What other tools exist to help visualize data and draw conclusions.
 
     4) **How does it affect your design practice? What applications do you see in your practice?**
 
-    - Ethnography can be used to give context to creative work, uncover hidden needs, validate ideas, as well as study users.
-    - Ethnography is often "ad-hoc", and not very linear.
-    - The challenge lies with extracting the data from field research, and coming to the "correct" conclusions.
+    - working with discarded materials has many benefits, including cost, reduced waste, and is more sustainable.
+    - working within a limited timeframe pushes designers to iterate quickly and helps to not overthink things.
+    - Working with "things you find" leads to thinking outside the box, instead of with the fixed ideas in your head.
+
+
+???+ abstract "Schleicher D. & al. 2010. "Bodystorming as Embodied Designing". In Interactions."
+
+    [schleicher_jones_kachur.pdf](texts/week2/week2_schleicher_jones_kachur.pdf)
+
+    1) **What are the new terms in this text? How are they defined? Where do they come from?** 
+
+    - embodied storming: not for ideation, but for creating the experience of physical performance to enact experiential awareness, performing actions in simulated settings and ocasions in real time.
+    - fixation bias: idea/perspective captures attention and hinders search for original alternatives.
+    - strong prototyping: recreating/simulating the actual use environment.
+    - use-case theater: using actors and props to prototype the space and place of the products use.
+
+
+    2) **Who are the authors? Where do they work? Who do they refer to?**
+
+    - published in 2010
+
+
+    3) **What questions come to your mind from reading this text?**
+
+
+    4) **How does it affect your design practice? What applications do you see in your practice?**
+
+    - body storming or embodied design can help adress the weakness of groupthink/fixation/distance from a design.
+    - in this context, its more helpful to think about "scenarios" rather than "ideas", because they often create sequences, themes, and conceptual continuity.
+    - body storming should be one of the first steps taken, even pre-ideation. "We act it out to prevent us from overthinking it".
+
+
+
+???+ abstract "Houde, S., & Hill, C. 1997. "What Do Prototypes Prototype?", in M. Helander, T. Landauer, and P. Prabhu (eds.): Elsevier Science B. V: Amsterdam. Handbook of Human-Computer Interaction."
+
+    [houde_hill.pdf](texts/week2/week2_houde_hill.pdf)
+
+    1) **What are the new terms in this text? How are they defined? Where do they come from?**
+
+    - resolution: "amount of detail
+    - fidelity: "closeness to the eventual design"
+    - role prototype: investigates what the artifact could do for a user
+    - look and feel prototype: demonstrates options for the concrete experience of an artifact
+    - implementation prototypes: answer technical questions about how it might work
+    - integration prototype: represent **complete** user experience of an artifact
+
+
+    2) **Who are the authors? Where do they work? Who do they refer to?**
+
+    - was published in 1997.
+
+
+    3) **What questions come to your mind from reading this text?**
+
+    - is there a list of good examples of prototypes for specific questions, like ui, code, etc
+
+    4) **How does it affect your design practice? What applications do you see in your practice?**
+
+    - think about prototypes in terms of artifacts being designed, not in terms of the prototypes attibutes --> _what_ does it prototype, not how is it prototyped.
+    - the details of the prototype changes with the features it needs to convey (look & feel, role, etc).
+    - its not significant how or with which methods/tools prototypes were created, but how they are used by a designer to explore/demonstrate some aspect.
+    - making seperate prototypes for seperate design questions is helpful.
 
 
 ___
