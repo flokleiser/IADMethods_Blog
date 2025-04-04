@@ -98,9 +98,9 @@ ___
 ___
 
 ## Brief Summary of Lesson
-tbd
+This lesson was hosted by Timon and me, and we had our presentation about the different prototype methods and different kinds of prototypes. The presentation went mostly fine, but we got the feedback from Joëlle that she would have appreciated more editorial work, meaning that it would have been nice if we added more of our own takes and thoughts to the topic. Additionally, Joëlle mentioned that I was more quiet during the exercise part, and that i should have included myself more, which i agree with but i am still rather happy with how the presentation overall went.
 
 ___
 
 ## Takeaways
-tbd
+The main takeaway for me was that i should include myself more in conversations even when another person is seeminlgly saying all of the things that i would have said, and of course i know have a much deeper and also broader knowlege about prototypes than i had before, which definitely will come in handy with all of my future projects.
