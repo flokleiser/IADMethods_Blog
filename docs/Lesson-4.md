@@ -1,19 +1,18 @@
 ---
 date:
   created: 2025-04-05
-draft: true
 ---
 
 ## Topic
-tbd
+Pop Culture & Storytelling
 
 ___
 
 ## Reading Material
 
-???+ abstract "tbd"
+???+ abstract "Kirby, D. 2010. "The Future Is Now: Diegetic Prototypes and the Role of Popular Films". In Generating Real-World Technological Development. Social Studies of Science."
 
-    [tbd.pdf](tbd.pdf)
+    [kirby.pdf](texts/week3/week3_kirby.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?**
 
@@ -24,9 +23,9 @@ ___
     4) **How does it affect your design practice? What applications do you see in your practice?**
 
 
-???+ abstract "tbd"
+???+ abstract "Kien M. 2023. "Historically Informed HCI: Reflecting on Contemporary Technology through Anachronistic Fiction". In ACM Transactions on Computer-Human Interactions. 29, 6."
 
-    [tbd.pdf](tbd.pdf)
+    [kien.pdf](texts/week3/week3_kien.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?** 
 
@@ -37,9 +36,9 @@ ___
     4) **How does it affect your design practice? What applications do you see in your practice?**
 
 
-???+ abstract "tbd"
+???+ abstract "Rosén, A. et al. 2022. "Towards More-Than-Human-Centred Design: Learning from Gardening". In International Journal of Design."
 
-    [tbd.pdf](tbd.pdf)
+    [rosen.pdf](texts/week3/week3_rosen_et_al.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?**
 
@@ -53,7 +52,9 @@ ___
 ___
 
 ## Brief Summary of Lesson
+tbd
 
 ___
 
 ## Takeaways
+tbd

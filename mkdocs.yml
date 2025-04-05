@@ -1,12 +1,23 @@
 site_name: Florian Kleiser 
 theme:
+    logo: assets/testlogo2.png
     name: material
     features:
         - navigation.indexes
     palette:
-        scheme: slate 
-        primary: black
-        accent: deep-purple 
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: black
+      accent: black
+
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: black 
+      accent: black
 
 plugins:
     - search

@@ -1,7 +1,6 @@
 ---
 date:
   created: 2025-03-28
-draft: true
 ---
 
 ## Topic
