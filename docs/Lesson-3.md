@@ -12,7 +12,7 @@ ___
 
 ???+ abstract "Moriwaki, K. & Brucker-Cohen, J. 2006. “Lessons from the scrapyard: creative uses of found materials within a workshop setting”. In AI & Society. 20:4. 506-525."
 
-    [moriwaki_brucker-cohen.pdf](texts/week2/week2_moriwaki_brucker-cohen.pdf)
+    [moriwaki_brucker-cohen.pdf](texts/week3/week3_moriwaki_brucker-cohen.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?**
 
@@ -37,7 +37,7 @@ ___
 
 ???+ abstract "Schleicher D. & al. 2010. "Bodystorming as Embodied Designing". In Interactions."
 
-    [schleicher_jones_kachur.pdf](texts/week2/week2_schleicher_jones_kachur.pdf)
+    [schleicher_jones_kachur.pdf](texts/week3/week3_schleicher_jones_kachur.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?** 
 
@@ -65,7 +65,7 @@ ___
 
 ???+ abstract "Houde, S., & Hill, C. 1997. "What Do Prototypes Prototype?", in M. Helander, T. Landauer, and P. Prabhu (eds.): Elsevier Science B. V: Amsterdam. Handbook of Human-Computer Interaction."
 
-    [houde_hill.pdf](texts/week2/week2_houde_hill.pdf)
+    [houde_hill.pdf](texts/week3/week3_houde_hill.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?**
 

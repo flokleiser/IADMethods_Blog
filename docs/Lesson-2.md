@@ -12,7 +12,7 @@ ___
 
 ???+ abstract "RAW: Conveying minimally-mediated impressions of everyday life with an audio-photographic tool"
 
-    [bitton_agamanolis_karau.pdf](texts/week1/week1_bitton_agamanolis_karau.pdf)
+    [bitton_agamanolis_karau.pdf](texts/week2/week2_bitton_agamanolis_karau.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?**
 
@@ -40,7 +40,7 @@ ___
 
 ???+ abstract "Characterizing Interaction Design by Its Ideals: A Discipline in Transition"
 
-    [höök_löwgren.pdf](texts/week1/week1_höök_löwgren.pdf)
+    [höök_löwgren.pdf](texts/week2/week2_höök_löwgren.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?** 
 
@@ -66,7 +66,7 @@ ___
 
 ???+ abstract ""Design Ethnography?" & "Field Research""
 
-    [nova.pdf](texts/week1/week1_nova.pdf)
+    [nova.pdf](texts/week2/week2_nova.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?**
 
