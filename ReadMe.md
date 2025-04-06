@@ -27,7 +27,7 @@ ___
 ___
 
 ## ToDo:
-- [ ] Change highlight color to not make it look as bad
+- [x] Change highlight color to not make it look as bad
 - [x] Light/Dark mode
 - [ ] Change logo
 

@@ -10,7 +10,7 @@ ___
 
 ## Reading Material
 
-???+ abstract "RAW: Conveying minimally-mediated impressions of everyday life with an audio-photographic tool"
+??? abstract "RAW: Conveying minimally-mediated impressions of everyday life with an audio-photographic tool"
 
     [bitton_agamanolis_karau.pdf](texts/week2/week2_bitton_agamanolis_karau.pdf)
 
@@ -38,7 +38,7 @@ ___
     - The slow reveal or "zoom out" as the audio starts playing is really fascinating, as it leads to a level of suspense while viewing the work.
 
 
-???+ abstract "Characterizing Interaction Design by Its Ideals: A Discipline in Transition"
+??? abstract "Characterizing Interaction Design by Its Ideals: A Discipline in Transition"
 
     [höök_löwgren.pdf](texts/week2/week2_höök_löwgren.pdf)
 
@@ -64,7 +64,7 @@ ___
     designing by orchestrating the interaction with ensembles of more or less autonomous components"
 
 
-???+ abstract ""Design Ethnography?" & "Field Research""
+??? abstract ""Design Ethnography?" & "Field Research""
 
     [nova.pdf](texts/week2/week2_nova.pdf)
 

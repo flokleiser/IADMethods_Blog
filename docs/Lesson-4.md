@@ -11,7 +11,7 @@ ___
 ## Reading Material
 
 
-???+ abstract "Kirby, D. 2010. "The Future Is Now: Diegetic Prototypes and the Role of Popular Films". In Generating Real-World Technological Development. Social Studies of Science."
+??? abstract "Kirby, D. 2010. "The Future Is Now: Diegetic Prototypes and the Role of Popular Films". In Generating Real-World Technological Development. Social Studies of Science."
 
     [kirby.pdf](texts/week4/week4_kirby.pdf)
 
@@ -37,13 +37,14 @@ ___
     - Narratives (films or stories) can be used to reduce public anxiety of new technologies, stimulate desire in audiences, or also to warn of possible future events in the hopes of stimulating public action to prevent them from happening.
 
 
-???+ abstract "Kien M. 2023. "Historically Informed HCI: Reflecting on Contemporary Technology through Anachronistic Fiction". In ACM Transactions on Computer-Human Interactions. 29, 6."
+??? abstract "Kien M. 2023. "Historically Informed HCI: Reflecting on Contemporary Technology through Anachronistic Fiction". In ACM Transactions on Computer-Human Interactions. 29, 6."
 
     [kien.pdf](texts/week4/week4_kien.pdf)
 
     1) **What are the new terms in this text? How are they defined? Where do they come from?** 
 
     - Anachronistic Fiction: How previous eras might have looked like if todays technology already existed.
+    - Counterfactual History: Imagining an alternative history to explore the ramifications/influences of technology.
 
 
     2) **Who are the authors? Where do they work? Who do they refer to?**
@@ -53,14 +54,15 @@ ___
 
     3) **What questions come to your mind from reading this text?**
 
-    - tbd
+    - Is there a way to systematicly apply anarchronistic fiction to evaluate potetial consequences of current technology, or are we stuck with the phrase "hinsight is 20-20"?
 
     4) **How does it affect your design practice? What applications do you see in your practice?**
 
-    - tbd
+    - Analyzing historical parallels can be a very useful tool to learn what has worked before and what hasnt.
+    - Using speculative methods like anarchronistic fiction can help "test" the impacts of technology.
 
 
-???+ abstract "Rosén, A. et al. 2022. "Towards More-Than-Human-Centred Design: Learning from Gardening". In International Journal of Design."
+??? abstract "Rosén, A. et al. 2022. "Towards More-Than-Human-Centred Design: Learning from Gardening". In International Journal of Design."
 
     [rosen.pdf](texts/week4/week4_rosen_et_al.pdf)
 
