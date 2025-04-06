@@ -14,7 +14,7 @@
     mkdocs.yml              # Config
     docs/
         index.md            # Homepage
-        post1.md             # Individual lesson blog posts
+        post1.md            # Individual lesson blog posts
         post2.md
         ...
 
