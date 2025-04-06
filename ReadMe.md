@@ -11,7 +11,6 @@
 
 ## Project layout
 
-    mkdocs.yml              # Config
     docs/
         index.md            # Homepage
         post1.md            # Individual lesson blog posts
@@ -22,10 +21,9 @@
         assets/             
             css/            # Additional stylings
 
-        site/               # Generated JS/HTML, static site
+    site/               # Generated JS/HTML, static site
 
-        mkdocs.yml          # Config
-
+    mkdocs.yml              # Config
 ___
 
 ## Useful links
