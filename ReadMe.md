@@ -14,7 +14,17 @@
     mkdocs.yml              # Config
     docs/
         index.md            # Homepage
-        post.md             # Individual lesson blog posts
+        post1.md             # Individual lesson blog posts
+        post2.md
+        ...
+
+        texts/              # Literature PDFs
+        assets/             
+            css/            # Additional stylings
+
+        site/               # Generated JS/HTML, static site
+
+        mkdocs.yml          # Config
 
 ___
 
