@@ -21,7 +21,7 @@
         assets/             
             css/            # Additional stylings
 
-    site/               # Generated JS/HTML, static site
+    site/                   # Generated JS/HTML, static site
 
     mkdocs.yml              # Config
 ___
