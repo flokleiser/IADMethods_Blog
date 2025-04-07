@@ -92,9 +92,11 @@ ___
 ___
 
 ## Brief Summary of Lesson
-tbd
+
+The lesson was hosted by Domenico and Aline. It revolved around the general concepts of storytelling, and how stories can help shape the publics opinion on things, and especially emerging technologies. The exercise for the students revolved around the "characteristics" and "experiences" of one of two objects, either a nail or a toothpick. First, we had to characterize the object and then think about the experience from the objects perspective, and then we had to do the same thing but imagine it in a completely different historical context, like the middle ages or the roman empire. This was interesting, as it both highlighted that both of the objects probably didnt experience a lot of radical changes in the past couple of centuries, and also because it showed that many people formed different narratives around the objects despite all of them having the same task.
 
 ___
 
 ## Takeaways
-tbd
+
+The main takeaways from this lesson were that stories are an incredibly important and also potentially dangerous or manipulative tool. They often contain "stereotypes" and are often (over)simplified. Many stories share similar structures, or whatever a stories equivalent of an "architype" is. Often, they are also regurgitated, and are also very prevalent in propaganda. New technologies always create hopes and fears, and it is up to the creators and the public to contextualize it.
