@@ -10,7 +10,7 @@ ___
 
 ## Reading Material
 
-???+ abstract "Baumer, E., Blythe M., and Tanenbaum, T. 2020. "Evaluating Design Fiction: The Right Tool for the Job". In Proceedings of the 2020 ACM Designing Interactive Systems Conference."
+??? abstract "Baumer, E., Blythe M., and Tanenbaum, T. 2020. "Evaluating Design Fiction: The Right Tool for the Job". In Proceedings of the 2020 ACM Designing Interactive Systems Conference."
 
     [baumer_blythe_tannenbaum.pdf](texts/week5/week5_baumer_blythe_tannenbaum.pdf)
 
@@ -23,7 +23,7 @@ ___
     4) **How does it affect your design practice? What applications do you see in your practice?**
 
 
-???+ abstract "Bell, Genevieve, Blythe, M. & Sengers, P. 2005. “Making by Making Strange: Defamiliarization and the Design of Domestic Technologies”. In ACM Transactions on Computer-Human Interaction. 12. 149-173."
+??? abstract "Bell, Genevieve, Blythe, M. & Sengers, P. 2005. “Making by Making Strange: Defamiliarization and the Design of Domestic Technologies”. In ACM Transactions on Computer-Human Interaction. 12. 149-173."
 
     [bell_et_all.pdf](texts/week5/week5_bell_et_all.pdf)
 
@@ -36,7 +36,7 @@ ___
     4) **How does it affect your design practice? What applications do you see in your practice?**
 
 
-???+ abstract "Preece, J., Rogers, Y., & Sharp, H. 2002. “Introducing Evaluation”. In Interaction Design. Wiley."
+??? abstract "Preece, J., Rogers, Y., & Sharp, H. 2002. “Introducing Evaluation”. In Interaction Design. Wiley."
 
     [preece_rogers_sharp.pdf](texts/week5/week5_preece_rogers_sharp.pdf)
 

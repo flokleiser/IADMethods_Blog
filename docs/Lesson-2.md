@@ -97,7 +97,7 @@ The lesson ended with an exercise where we had to analyze a random object in pai
 
 In the end, Joëlle gave a couple of inputs regarding the structure of the lesson, mainly that some more pictures could help for more visual aid. She also mentioned that we are welcome to take a critical stance to wards the literature, and we should investigate the authors of the papers a bit more, because that adds valuable context about the surroundings in which the text was written as well as the biases surrounding the paper. Finally, Joëlle mentioned that future groups could use different settings such as holding the lesson outdoors, or completely over zoom.
 
-???+ note "New Terms"
+??? note "New Terms"
     - Hawthorne effect: someone acts differently when they know they are being watched.
 
 ___
