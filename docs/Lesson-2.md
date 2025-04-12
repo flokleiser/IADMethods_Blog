@@ -11,7 +11,7 @@ ___
 
 ## Reading Material
 
->[!abstract]- abstract "RAW: Conveying minimally-mediated impressions of everyday life with an audio-photographic tool"
+>[!abstract]- "RAW: Conveying minimally-mediated impressions of everyday life with an audio-photographic tool"
 >
 >[bitton_agamanolis_karau.pdf](texts/week2/week2_bitton_agamanolis_karau.pdf)
 >
@@ -39,7 +39,7 @@ ___
 >- The slow reveal or "zoom out" as the audio starts playing is really fascinating, as it leads to a level of suspense while viewing the work.
 >
 
->[!abstract]- abstract "Characterizing Interaction Design by Its Ideals: A Discipline in Transition"
+>[!abstract]- "Characterizing Interaction Design by Its Ideals: A Discipline in Transition"
 >
 >[höök_löwgren.pdf](texts/week2/week2_höök_löwgren.pdf)
 >
@@ -52,11 +52,11 @@ ___
 >
 >- Two experienced interaction designers from sweden.
 >
->1) **What questions come to your mind from reading this text?**
+>3) **What questions come to your mind from reading this text?**
 >
 >- How much of interaction design is an art form, and how much is a "hard science"
 >
->2) **How does it affect your design practice? What applications do you see in your practice?**
+>4) **How does it affect your design practice? What applications do you see in your practice?**
 >
 >- the ideals of interaction design (at the time of publication): UX, still largely concentrates on interface between people and devices and the details of the interaction. "Designing interfaces for experience and meaning".
 >- the history of IAD: originated from HCI, started in the late 70s and early 80s, closely related to the evolution of computers (first as factory/professional work tools, then in homes and public spaces and as wearables). The first focus was "engineering interfaces for usability and utility", and later shifting the focus to "user experience and meaning making".
@@ -65,7 +65,7 @@ ___
 >designing by orchestrating the interaction with ensembles of more or less autonomous components"
 >
 
->[!abstract]- abstract ""Design Ethnography?" & "Field Research""
+>[!abstract]- ""Design Ethnography?" & "Field Research""
 >
 >[nova.pdf](texts/week2/week2_nova.pdf)
 >

@@ -10,7 +10,7 @@ ___
 
 ## Reading Material
 
->[!abstract]- abstract "Moriwaki, K. & Brucker-Cohen, J. 2006. “Lessons from the scrapyard: creative uses of found materials within a workshop setting”. In AI & Society. 20:4. 506-525."
+>[!abstract]- "Moriwaki, K. & Brucker-Cohen, J. 2006. “Lessons from the scrapyard: creative uses of found materials within a workshop setting”. In AI & Society. 20:4. 506-525."
 >
 >[moriwaki_brucker-cohen.pdf](texts/week3/week3_moriwaki_brucker-cohen.pdf)
 >
@@ -19,11 +19,11 @@ ___
 >- "third place": some place outside of work or home, in which creative experimentation and playful engagement occurs.
 >
 >
->1) **Who are the authors? Where do they work? Who do they refer to?**
+>2) **Who are the authors? Where do they work? Who do they refer to?**
 >
 >- written in 2005, published in 2006, Brucker-Cohen: PHD, researcher, artist, writer, worked in Trinity College in dublin. Moriwaki: Associate Professor of Media Design at Parsons School of Design.
 >
->1) **What questions come to your mind from reading this text?**
+>3) **What questions come to your mind from reading this text?**
 >
 >- how can the "time pressure" aspect that often leads to creative problem solving be changed to make it less stressful?
 >
@@ -36,7 +36,7 @@ ___
 >
 
 
->[!abstract]- abstract "Schleicher D. & al. 2010. "Bodystorming as Embodied Designing". In Interactions."
+>[!abstract]- "Schleicher D. & al. 2010. "Bodystorming as Embodied Designing". In Interactions."
 >
 >[schleicher_jones_kachur.pdf](texts/week3/week3_schleicher_jones_kachur.pdf)
 >
@@ -64,7 +64,7 @@ ___
 >
 
 
->[!abstract]- abstract "Houde, S., & Hill, C. 1997. "What Do Prototypes Prototype?", in M. Helander, T. Landauer, and P. Prabhu (eds.): Elsevier Science B. V: Amsterdam. Handbook of Human-Computer Interaction."
+>[!abstract]- "Houde, S., & Hill, C. 1997. "What Do Prototypes Prototype?", in M. Helander, T. Landauer, and P. Prabhu (eds.): Elsevier Science B. V: Amsterdam. Handbook of Human-Computer Interaction."
 >
 >[houde_hill.pdf](texts/week3/week3_houde_hill.pdf)
 >

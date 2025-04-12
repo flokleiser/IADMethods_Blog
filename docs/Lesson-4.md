@@ -11,7 +11,7 @@ ___
 ## Reading Material
 
 
->[!abstract]- abstract "Kirby, D. 2010. "The Future Is Now: Diegetic Prototypes and the Role of Popular Films". In Generating Real-World Technological Development. Social Studies of Science."
+>[!abstract]- "Kirby, D. 2010. "The Future Is Now: Diegetic Prototypes and the Role of Popular Films". In Generating Real-World Technological Development. Social Studies of Science."
 >
 >[kirby.pdf](texts/week4/week4_kirby.pdf)
 >
@@ -37,7 +37,7 @@ ___
 >- Narratives (films or stories) can be used to reduce public anxiety of new technologies, stimulate desire in audiences, or also to warn of possible future events in the hopes of stimulating public action to prevent them from happening.
 >
 
->[!abstract]- abstract "Kien M. 2023. "Historically Informed HCI: Reflecting on Contemporary Technology through Anachronistic Fiction". In ACM Transactions on Computer-Human Interactions. 29, 6."
+>[!abstract]- "Kien M. 2023. "Historically Informed HCI: Reflecting on Contemporary Technology through Anachronistic Fiction". In ACM Transactions on Computer-Human Interactions. 29, 6."
 >
 >[kien.pdf](texts/week4/week4_kien.pdf)
 >
@@ -62,7 +62,7 @@ ___
 >- Using speculative methods like anarchronistic fiction can help "test" the impacts of technology.
 >
 
->[!abstract]- abstract "Rosén, A. et al. 2022. "Towards More-Than-Human-Centred Design: Learning from Gardening". In International Journal of Design."
+>[!abstract]- "Rosén, A. et al. 2022. "Towards More-Than-Human-Centred Design: Learning from Gardening". In International Journal of Design."
 >
 >[rosen.pdf](texts/week4/week4_rosen_et_al.pdf)
 >
