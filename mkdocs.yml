@@ -7,28 +7,30 @@ theme:
     palette:
     - scheme: slate
       toggle:
-        icon: material/weather-sunny
-        name: Dark mode
+            icon: material/weather-sunny
+            name: Dark mode
       primary: black
       accent: black
 
     - scheme: default
       toggle:
-        icon: material/weather-night
-        name: Light mode
+            icon: material/weather-night
+            name: Light mode
       primary: black 
       accent: black
 
 plugins:
     - search
+    - callouts
 
 markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.pathconverter:
-        base_path: ''
-        absolute: false
+    - nl2br 
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.pathconverter:
+            base_path: ''
+            absolute: false
 
 extra_css:
     - assets/css/extra.css

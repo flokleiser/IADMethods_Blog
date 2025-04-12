@@ -7,8 +7,9 @@ date:
 
 Introduction to the Course
 
-!!! note
-    i did not take any notes for the first lesson because Joëlle said we shouldnt have our laptops open during the lesson. I only realized later that this probably was a misunderstanding
+>[!note]
+>
+>i did not take any notes for the first lesson because Joëlle said we shouldnt have our laptops open during the lesson. I only realized later that this probably was a misunderstanding
 
 ___
 
