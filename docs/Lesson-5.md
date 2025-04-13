@@ -2,7 +2,7 @@
 date:
   created: 2025-04-12
 
-icon: material/book-open-blank-variant-outline
+icon: material/book-open-page-variant-outline
 ---
 ## Topic
 Outcomes and Findings, Evaluating with participants
@@ -65,6 +65,10 @@ ___
 >[preece_rogers_sharp.pdf](texts/week5/week5_preece_rogers_sharp.pdf)
 >
 >1) **What are the new terms in this text? How are they defined? Where do they come from?**
+>- Usability testing: Evaluation that tests a users performance and evaluates their satisfaction with the system. Is done in a laboratory setting. Particularly important in later stages of design.
+>- Field studies: Evaluation that is done in a natural environment as opposed to a controlled setting.
+>- Analytical evaluation: Evaluations that dont involve end-users. Is done in a laboratory setting, often involving heuristics.
+>
 >
 >2) **Who are the authors? Where do they work? Who do they refer to?**
 >- Book published in 2013
@@ -73,9 +77,13 @@ ___
 >- Sharp is a Mathematician, Computer Science postgraduate and professor in Software Engineering, focusing on HCI, Software Engineering and Project Management.
 >
 >3) **What questions come to your mind from reading this text?**
+>- How are the priorities of the issues assigned, what distinguishes medium from low priority etc.?
 >
 >4) **How does it affect your design practice? What applications do you see in your practice?**
->
+>- Designers are often not the target user population, so it is important to get as much evaluation from as many different user groups as possible.
+>- the success of an interactive products depends doesnt depend on usability alone. Aesthetic, emotional, engaging and motivating qualities are equally important.
+>- Evaluation methods are often used together or chained together.
+>- It is likely that every iteration of testing/evaluating will reveal new areas where improvements can be made, so knowing when its time to move on is important.
 
 ___
 

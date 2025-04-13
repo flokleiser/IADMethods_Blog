@@ -1,6 +1,8 @@
 ---
 date:
   created: 2025-03-28
+
+icon: material/book-open-blank-variant-outline
 ---
 
 ## Topic

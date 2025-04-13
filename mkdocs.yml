@@ -1,4 +1,4 @@
-site_name: Florian Kleiser 
+site_name: IAD Methods, Florian Kleiser
 theme:
     logo: assets/testlogo2.png
     name: material
@@ -19,6 +19,9 @@ theme:
       primary: black 
       accent: black
 
+repo_name: flokleiser/IADMethods_Blog
+repo_url: https://github.com/flokleiser/IADMethods_Blog
+
 plugins:
     - search
     - callouts
@@ -28,9 +31,10 @@ markdown_extensions:
     - pymdownx.details
     - pymdownx.superfences
     - attr_list
-    # - pymdownx.emoji:
-    #     emoji_generator: !!python/name:pymdownx.emoji.to_png
-    #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+    - md_in_html
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - pymdownx.pathconverter:
         base_path: ''
         absolute: false
