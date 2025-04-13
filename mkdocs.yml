@@ -24,13 +24,17 @@ plugins:
     - callouts
 
 markdown_extensions:
-    - nl2br 
     - admonition
     - pymdownx.details
     - pymdownx.superfences
+    - attr_list
+    # - pymdownx.emoji:
+    #     emoji_generator: !!python/name:pymdownx.emoji.to_png
+    #     emoji_index: !!python/name:material.extensions.emoji.twemoji
     - pymdownx.pathconverter:
-            base_path: ''
-            absolute: false
+        base_path: ''
+        absolute: false
+    - nl2br 
 
 extra_css:
     - assets/css/extra.css
