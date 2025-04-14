@@ -101,10 +101,26 @@ Outcomes and Findings, Evaluating with participants
 
 ## Brief Summary of Lesson
 
-tbd
+The lesson was hosted by Oli, and he talked about what Design Fiction is, what defamiliarisation is and why it is important to evaluate projects correctly. The presentation was very interesting and served as a good recap of the texts we read. The exercise we had to do revolved around the concept of defamiliarisation. We all had to design a fridge for a specific user group, with a third of the class having to design a fridge for a dog, a third having to design a fridge for a plant, and the last third having to design a fridge for an A.I. This was interesting as it required us to think outside the box and try to throw any preconceptions we had about fridges out the window.
+
+Because the input from Oli was shorter as he was presenting alone, Joëlle gave another input afterwards, where we did an exercise. We had to individually answer these questions related to our group project:
+
+1) What criteria/aspect/quality is most important for you to achieve by the end?
+- A good video showcasing/explaining the original concept of the project, regardless of how the prototype turns out.
+
+2) What do you think it is for the audience? (be specific)
+- An interesting experiment to try and "defamiliarize" the stressy environment
+
+3) What do you think it is for your teachers?
+- A project to see if we learned anything from the IAD Methods/Process class 
+
+4) One aspect you think the project should address but hasnt?
+- What to do after you step in the sand, and you have to put your shoes back on.
+
+It is interesting to note that our group all had completely different answers, but we had little time to compare and contrast because we had to get right back to work after the lecture. We will however talk about why our answers were different and if there are any conflicts that need to be resolved before the project ends.
 
 ---
 
 ## Takeaways
 
-tbd
+The main takeaway from this lesson for me was that Joëlle demonstrated the difference between qualitative and quantitive feedback quite nicely, when she talked about the different "paradigms" of evaluating a course at the ZHdK. The "official" evaluation is a form where you have to answer how much you agree with a certain number of questions (i think?) such as "the amount of effort required correlates roughly to the amount of credits you get", and "i always felt respected" etc. To contrast this, Joëlle made a Miro board where we could all write our own sentences to a few categories she prepared, such as "what did you enjoy about hosting a session?" or "what did you appreciate in general in the design methods class so far?" etc. This made the difference between qualitative and quantitive evaluation of something a lot more concrete for me. Another takeaway was the brief input from claudio about the difference of Design Fiction and Speculative Design which i found quite interesting, which is that Speculative Design is often more provocative and "out there", and Design Fiction tries to stay more grounded.
