@@ -14,3 +14,4 @@ ___
 - [Lesson 3: Prototyping concepts, prototyping everything](Lesson-3.md)
 - [Lesson 4: Pop Culture & Storytelling](Lesson-4.md) 
 - [Lesson 5: Outcomes and Findings, Evaluating with participants](Lesson-5.md) 
+- [Lesson 6: Designing for Users: From Interface History to Modern Design Processes](Lesson-6.md) 
