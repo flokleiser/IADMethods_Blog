@@ -2,17 +2,13 @@
 date:
   created: 2025-04-27
 
-icon: material/book-open-page-variant-outline
+icon: material/book-open-blank-variant-outline
 ---
 ## Topic
 
 Designing for Users: From Interface History to Modern Design Processes
+
 ---
-
->[!note]
->
->The link for the text got uploaded on sunday afternoon at 3pm, and i did not have time to read the full 312 page paper until the evening.
-
 ## Reading Material
 
 > [!abstract]- "Dark Horse Innovation, 2017. "Digital innovation playbook: The handbook for digital transformation, new business models, and technologies". 4th ed. Munich: Hanser."
@@ -37,10 +33,49 @@ Designing for Users: From Interface History to Modern Design Processes
 
 ## Brief Summary of Lesson
 
-tbd
+This lesson focused on the history of User Design / User Experience.
+
+Some figures/topics which i found interesting
+
+>[!info] Henry Dreyfuss
+>https://en.wikipedia.org/wiki/Henry_Dreyfuss 
+
+>[!info ] [!info] Douglas Engelbart
+>https://en.wikipedia.org/wiki/Douglas_Engelbart 
+
+>[!info] Susan Kare (Apple, Icons)
+>https://en.wikipedia.org/wiki/Susan_Kare
+
+>[!info] Muriel Cooper (information landscapes)
+>https://en.wikipedia.org/wiki/Muriel_Cooper
+
+>[!info] Don Norman
+>Coined the term "UX"
+>https://en.wikipedia.org/wiki/Don_Norman
+
+
+First GUI (Desktop): Xerox Star, 1981 --> Pinoeer of UI/UX
+First *successful* GUI product: Apple Macintosh, 1984
+
+
+Double Diamond method
+![[Pasted image 20250428134831.png]]
+
+
+Design Thinking Mindset
+
+![[output.png]]
+
+Personas:
+
+
+User Journey (vs user flow):
+![[output 1.png]]
+
+Useful channel: youtube.com/nngroup.com
 
 ---
 
 ## Takeaways
 
-tbd
+The main takeaway for me was the "digital innovation" book, and the nngroup youtube channel, which both already were very useful in the GUI 2 module.
