@@ -16,7 +16,11 @@ Designing for Users: From Interface History to Modern Design Processes
 > [digitalinformation.pdf](texts/week6/week6_digital_information.pdf)
 >
 > 1) **What are the new terms in this text? How are they defined? Where do they come from?**
->
+>- How-Might-We Question: The problem hypothesis that describes an unsolved user need based on insights gained.
+>- Innovation Board: Accompanies the most important steps of digital innovation and consists of three modules: explore, create, and evaluate
+>- Explore Module: It is where discoverers typically start. Its purpose is to get to know the users and recognize their needs, preferences, and decision-making considerations
+>- Create Module: This module is used to design new or better solutions for users. It is where designers typically start
+>- Evaluate Module: In this module, the role is that of critical minds who adjust and review solutions and make them usable for the company. It is used to contact users again and validate various aspects of an idea, such as its relevance, whether it solves the problem, and if users would use or pay for it
 >
 > 2) **Who are the authors? Where do they work? Who do they refer to?**
 >
@@ -24,9 +28,11 @@ Designing for Users: From Interface History to Modern Design Processes
 >
 > 3) **What questions come to your mind from reading this text?**
 >
+>- The text highlights the importance of "gut feeling" and subjective interpretation (for example when developing personas). How is consistency and objectivity maintained when you have to rely on your gut feeling? 
 >
 > 4) **How does it affect your design practice? What applications do you see in your practice?**
 >
+>- Basically all of the mentioned methods and structures are helpful when designing things, and i will be revisiting different chapters in this book a lot in the forseeable future.
 
 
 ---
@@ -59,18 +65,17 @@ First *successful* GUI product: Apple Macintosh, 1984
 
 
 Double Diamond method
-![[Pasted image 20250428134831.png]]
+![doublediamond.png](attachments/doublediamond.png)
 
 
 Design Thinking Mindset
 
-![[output.png]]
+![mindset.png](attachments/mindset.png)
 
 Personas:
 
-
 User Journey (vs user flow):
-![[output 1.png]]
+![userjourney](attachments/userjourney.png)
 
 Useful channel: youtube.com/nngroup.com
 
