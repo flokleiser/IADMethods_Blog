@@ -37,6 +37,25 @@ Understanding Users and Defining Problems: From Insights to Ideation
 
 ## Brief Summary of Lesson
 
+The lesson was hosted by Claudio and Ben.
+It was very well structured, and i wrote down a couple of points:
+
+- Brain dump: just get a feel
+- go to their world
+- show me how you...
+- doorknob phenomenon
+- allow silence
+
+#### - POV method:
+[user] needs [need] because [insight]
+
+#### - How-might-we method:
+how might we [intended action] for [potential user] so that [desired outcome]
+
+In the end, jürgen went over some important points for our interviews on tuesday.
+
 ---
 
 ## Takeaways
+
+The biggest takeaways for me were the very helpful breakdowns of the concepts of the POV and How-Might-We methods. They were illustrated and explained very understandably, and they made the concept much more feasable for me.
