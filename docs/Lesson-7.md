@@ -2,7 +2,7 @@
 date:
   created: 2025-04-27
 
-icon: material/book-open-page-variant-outline
+icon: material/book-open-blank-variant-outline
 ---
 ## Topic
 

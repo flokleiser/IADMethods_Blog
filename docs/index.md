@@ -16,3 +16,4 @@ ___
 - [Lesson 5: Outcomes and Findings, Evaluating with participants](Lesson-5.md) 
 - [Lesson 6: Designing for Users: From Interface History to Modern Design Processes](Lesson-6.md) 
 - [Lesson 7: Understanding Users and Defining Problems: From Insights to Ideation](Lesson-7.md)
+- [Lesson 8:The Science of Usability: Essential Laws and Heuristics for Better UX and UI Design](Lesson-8.md)
