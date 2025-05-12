@@ -37,10 +37,37 @@ The Science of Usability: Essential Laws and Heuristics for Better UX and UI Des
 
 ## Brief Summary of Lesson
 
-tbd
+The lesson was hosted by Mathan and Viktoriia.
+Mathan firstly talked about all the different laws from the book, and gave many helpful and illustrative practical examples. Viktoriia talked about some of the important "effects", like the peak-end rule and the aesthetic-usability effect, which both play an important rule and are important to keep in mind. The end of the presentation was a reminder that "with power comes responsibility", meaning that when some UX is _too_ good (e.g. TikTok), it can be very harmful and addicting aswell.
+
+After the presentation, Jürgen talked about the laws of simplicity by John Maeda, who is a Japanese Inventor/Designer, who was the head of the MIT lab, and is currently at microsoft.
+He talked about some laws
+1) Reduce
+2) Organize
+3) Time
+4) Learn
+5) Differences
+6) Context
+7) Emotion
+8) Trust
+9) Failure
+10) The one
+
+He then gave us a couple tips:
+### Material io
+
+- Remove lines and boxes
+- Pay attention to contrast (at least 4.5:1) -> download Stark to check accessibility
+- Familiarity is good (dont reinvent the wheel, dont reinvent the whole flow etc)
+- Use color weight to establish hierarchy
+- Avoid using more than two typefaces
+- **Line lenght (ideally 40-60 characters)**
+- Never use right aligned, except for very short typographical sections
+- Colour system -> avoid using bright primary or secondary colors for body text
+
 
 ---
 
 ## Takeaways
 
-tbd
+The biggest takeaway for me were all the practical examples on how and why the different UX laws are applied in the real world. Viktoriia also retroactively provided context for some of our earlier tasks, for example the journey map, which made the task make more sense. Another thing that stuck was that we usually make an opinion during the first 5-7 seconds, which is why UI/UX is so important.
