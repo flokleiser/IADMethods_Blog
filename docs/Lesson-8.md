@@ -2,7 +2,7 @@
 date:
   created: 2025-05-11
 
-icon: material/book-open-page-variant-outline
+icon: material/book-open-blank-variant-outline
 ---
 ## Topic
 
@@ -13,7 +13,7 @@ The Science of Usability: Essential Laws and Heuristics for Better UX and UI Des
 
 > [!abstract]- "Yablonski, J., 2024. "Laws of UX – Using Psychology to Design Better Products & Services". O`Reilly"
 >
-> [lawsofux.pdf](texts/week7/lawsofux.pdf)
+> [lawsofux.pdf](texts/week8/lawsofux.pdf)
 >
 > 1) **What are the new terms in this text? How are they defined? Where do they come from?**
 >- Jakob’s Law: users spend most of their time on other sites and prefer your site to work the same way as all the other sites they already know. It reminds designers that people leverage previous experience to understand new experiences. The law is attributed to Jakob Nielsen.
