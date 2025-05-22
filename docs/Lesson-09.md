@@ -2,7 +2,7 @@
 date:
   created: 2025-05-18
 
-icon: material/book-open-page-variant-outline
+icon: material/book-open-blank-variant-outline
 ---
 
 ## Topic
@@ -60,6 +60,43 @@ ___
 
 ## Brief Summary of Lesson
 
+The lesson was hosted by Lhamo and Anna
+Lhamo talked about the "Sprint technique", and how exactly it works and how its implemented.
+
+She described that a sprint has 5 acts:
+1) Friendly Introduction
+2) Context Question
+3) Introducing the Prototype
+4) Tasks and Interaction
+5) Debrief and Reflection
+
+#### Ground rules in sprint testing:
+
+**Interviewer:**
+- Ask open, natural questions
+- dont lead or explain
+- encourage users to think aloud
+
+**Observers:**
+- Stay silent and do not interfere
+- Take detailed notes of key moments
+- Use a shared template to capture findings accodringly
+
+Anna was talking about the "Thinking-Aloud" Method
+
+Anna mentioned that the user should be prepared
+- Interface is evaluated, not the user
+- Encourage honesty and explain why thoughts are helpful
+
+Techniques:
+- Prompting (neutral question)
+- Echoing (repeating words)
+- Summarize key points (actions and thoughts)
+
+good tip: count to 10 before intervening
+
 ___
 
 ## Takeaways
+
+The technique of counting to 10 before intervening was very eye opening for me, and a great technique that i will apply during our user testing.
