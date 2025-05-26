@@ -40,7 +40,23 @@ ___
 
 ## Brief Summary of Lesson
 
+The lesson was hosted by Mathieu. The topic was about User Experience Design, and why it is so important.
+
+Definition: Create a positive experience, or nudge the user.
+
+There is a direct environmental impact of 3.9% of the global Co2 emissions that stem from UX, as well as indirect Co2 emissions from deliveries for example.
+
+He also talked about the "dark patterns", for example in streaming services and scrolling applications like tiktok/instragram. He mentioned how these can be dangerous, and that it is an ethical question.
+
+Some existing Standarts & Initiatives for more responsible UX design:
+- SUX Network (sustainable ux network)
+- ISO standarts (international org. for standartisation)
+- UN Sustainable Development Goals
+
+To conclude, he mentioned that we have to combine user-centered and life-centered design to be responsible and sustainable.
+
 ___
 
 ## Takeaways
 
+What stuck with me was the "dangerous" sides of UX design, and how it can be used in an unethical, maybe even addicting way. Thats why being responsible with UX design is very important.
